@@ -12,3 +12,6 @@ Titanium is Copyright (c) 2009-2013 by Appcelerator, Inc. All Rights Reserved.
 
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
+
+Reviewer 1 - App runs successfully in emulator. All ten color options load with unique labels. Did not see options in emulator for two tabs.
+Will continue to look for tab options in emulator and code.
